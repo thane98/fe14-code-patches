@@ -15,3 +15,8 @@ Template file for adding new My Castle assistants. The example adds Scarlet, Sai
 
 ### motherportraits.s
 Adds the ability to load custom portraits for child characters depending on their mother.
+
+### notmycastle.s
+Removes virtually all customization features from My Castle. No butlers / castle edit menu, no bookshelf or crystal ball, and no changing menus on the bottom screen.
+
+Probably not useful on its own.
